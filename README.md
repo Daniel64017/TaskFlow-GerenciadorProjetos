@@ -4,7 +4,9 @@ O **TaskFlow** é uma aplicação web leve e moderna desenvolvida em Python (Fla
 
 ## 🖼️ Imagens do Sistema
 
-![Tela Principal](https://github.com/Daniel64017/TaskFlow-GerenciadorProjetos/blob/9f9730b2335cc7876294920f1327f78b29228715/Tela%20Inicial%20-%20Dashboard)
+![Tela Principal-Dashboard](https://github.com/Daniel64017/TaskFlow-GerenciadorProjetos/blob/9f9730b2335cc7876294920f1327f78b29228715/Tela%20Inicial%20-%20Dashboard)
+
+![Tela-Kanban](https://github.com/Daniel64017/TaskFlow-GerenciadorProjetos/blob/0684e5179a1c67a7ecf3b6655e40817f61b603e0/Tela%20-%20Quadro%20Kanban)
 
 ---
 
