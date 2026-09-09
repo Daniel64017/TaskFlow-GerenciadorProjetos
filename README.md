@@ -4,6 +4,8 @@ O **TaskFlow** é uma aplicação web leve e moderna desenvolvida em Python (Fla
 
 ## 🖼️ Imagens do Sistema
 
+![Tela Principal](https://github.com/Daniel64017/Projeto-Netflix/blob/6bc6dd66792093c85a1fde01ff478972a9f88531/Imagem%20-%20Tela%20Inicial.png)
+
 ---
 
 ## 🚀 Como Executar o Projeto no seu Computador
